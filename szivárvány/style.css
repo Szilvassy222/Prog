@@ -1,0 +1,34 @@
+body{
+    background-color: #ccffcc;
+}
+
+h1 {
+    background-color: rgba(255,255,255,0.6);
+    text-align: center;
+    font-size: 2em;
+    font-variant: small-caps;
+    color:darkgreen;
+}
+
+img{
+    width: 50%;
+}
+
+h3 {
+    font-weight: normal;
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+a{
+    color: darkgreen;
+    text-decoration: none;
+    font-weight: bold;
+}
