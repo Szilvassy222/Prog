@@ -1,0 +1,126 @@
+Vitaminok
+
+A vitamin olyan szerves vegyület, amely kis mennyiségben ugyan, de nélkülözhetetlen 
+az emberi szervezet számára, viszont kellő mennyiségben az előállítására nem mindig 
+képes, ezért tápanyag formájában kénytelen hozzájutni.
+
+A vitaminokat nem kémiai szerkezetük, hanem biokémiai aktivitásuk alapján osztályozzák, 
+ezért egy bizonyos vitaminnak akár több, azonos hatású vegyületet is tekinthetünk, 
+amire jó példa az A-vitamin hat vitamerje. Van olyan vitamin, amit bizonyos feltételek 
+mellett képes a szervezet előállítani, példa erre ember esetében a D-vitamin és a 
+napsütés kapcsolata. Van olyan anyag, amely az egyik élőlény számára vitamin, a másiknak 
+pedig nem. Erre példa a C-vitamin, amelyet a legtöbb állat szervezete képes előállítani, 
+de az ember nem. Az esszenciális aminosavak, és az esszenciális zsírsavak nem számítanak 
+vitaminnak, mert nagy mennyiségben van szükség rájuk. Mára tizenháromra csökkent a 
+tudomány által elismert vitaminok száma.
+
+A vegyes táplálkozás általában fedezi a vitaminszükségletet, de az étrend összeállításánál 
+nemcsak arra kell törekedni, hogy a táplálék nyersanyaga vitaminban gazdag legyen, hanem 
+figyelemmel kell lenni arra is, hogy az ételek elkészítése során – főleg a hevítés 
+hatására – a vízben oldódó vitaminok 10-50%-a is elbomolhat, elveszhet. Az egészséges 
+szervezet működéséhez nemcsak vitaminokra, hanem ásványi anyagokra, kofaktorokra és 
+nyomelemekre is szükség van.
+
+A vitaminok két fő csoportja
+
+A vitaminokat oldhatóságuk alapján két nagy csoportra oszthatjuk:
+
+Zsírban oldódó vitaminok (lipovitaminok),
+Vízben oldódó vitaminok
+
+A két csoport tagjai között aligha van vegyi rokonság, de a vízben oldódó B- és 
+C-vitaminok között sem találunk ilyet. A szervezet számára azonban mindkét csoport 
+vitaminjai szükségesek, mert a szervezet védekező mechanizmusait erősítik. A vitaminok 
+élettani hatására leginkább hiányuk (az avitaminózis) esetén fellépő betegségekből 
+következtethetünk.
+
+Zsírban oldódó vitaminok
+
+A zsírban oldódó vitaminokat a szervezet tárolni tudja, főleg a zsírszövetekben és a 
+májban, ezért normál, egészséges étkezés mellett (pl. teljes kiőrlésű gabona, friss 
+gyümölcsök, zöldségek) nem feltétlenül szükséges a napi pótlásuk. Ilyen vitamintabletta 
+rendszeres szedése esetén elvileg fennáll a túladagolás veszélye. 
+Ezek a vitaminok (konkrétan: A-, D-, E-, K-vitamin) vízben nem oldódnak.
+
+A-vitamin
+Funkciója: növekedés, szürkületi látás, a szaruhártya egészsége, fertőzéssel szembeni 
+ellenállás. Hiánya fejlődési zavarokat, farkasvakságot, a bőr szárazságát okozza.
+Forrásai: tejtermékek, halmájolajak, tojássárgája. A sárgarépában és zöldségfélékben 
+található karotint  a szervezet A-vitaminná alakítja.
+
+D-vitamin
+Funkciója: csontok egészséges fejlődése. Hiánya a csontok görbülését, törékenységét, 
+csontlágyulást okoz.
+Forrásai: vaj, halmájolaj. A növényi olajokban található előanyagot a szervezet 
+alakítja D-vitaminná  napsugárzás hatására.
+
+E-vitamin
+Funkciója: az idegrendszer, az izomzat és a here normális működéséhez illetve a 
+terhesség kihordásához fontos. Hiánya nem jellemző.
+Forrásai: növényi magvak és olajok, saláták, zöldfőzelékek, tej, vaj.
+
+K-vitamin
+Funkciója: megfelelő májműködés.  Hiánya nem jellemző.
+Forrásai: bélbaktériumok termelik, külső bevitele általában nem szükséges.
+
+Vízben oldódó vitaminok
+
+A vízben oldódó vitaminok közös jellemzője, hogy az emberi szervezet nem képes őket 
+sokáig tárolni, ezért gyakorlatilag minden nap pótolni kell őket. A vitamin nem 
+hasznosuló része a vizelettel távozik. Ugyanebből az okból a túladagolás veszélye nem 
+áll fenn, azonban hiánybetegség kialakulhat.
+
+B1-vitamin
+Funkciója: szénhidrát anyagcsere: az idegrendszer működése. Hiánya vizenyősödést vagy 
+végzetes fogyással járó beriberit okoz.
+Forrásai: élesztő, tojássárgája, máj, búzacsíra, borsó, bab.
+
+B2-vitamin
+Funkciója: szövetlégzés. Hiánya a nyelv és az ajak gyulladását okozza.
+Forrásai: élesztő, élesztő- és húskivonatok, tej, máj, sajt, tojás, zöldségfélék.
+
+B12-vitamin
+Funkciója: vérképződés. Hiánya vészes vérzékenységet okoz.
+Forrásai: élesztő, hús, máj, vese, tej, sajt, tojás, zöldségfélék.
+
+C-vitamin
+Funkciója: energiatermelés, anyagcserefolyamatok, fertőzéssel szembeni ellenállás. 
+Hiánya skorbutot , vérzékenységet, fáradékonyságot okoz.
+Forrásai: paprika, citrom, zöldségek, gyümölcsök.
+
+Néhány vitamindús zöldség:
+
+Sütőtök: A sütőtökben lévő karotinoidok és C-vitamin, valamint a tökmagban lévő 
+E-vitamin védelmet nyújt a szervezet számára. Hatékonyan alkalmazhatjuk a sütőtök 
+levét a megfázásos betegségek gyógyítására. A sütőtökben található kálium jótékony 
+hatással van a vér tisztulására, illetve vitamintartalma miatt ajánlott a fogyasztása 
+a pattanásos bőrre. A tök levének fogyasztásával csökkenthető az asztmás rohamok 
+kialakulása és az allergikus tüsszögés és köhögés.
+
+Káposzta: Mindenfajta káposzta fogyasztása ajánlott, ám elsősorban a savanyított 
+változata egészséges. Tartalmaz karotint, B1, B2, C, K és U-vitamint, tej-és ecetsavat, 
+ásványi anyagokat. Fogyaszthatjuk migrén ellen, idegerősítőnek, valamint székrekedésre 
+is hatásos. A savanyú káposzta levének fogyasztása különösen operáció után ajánlott, 
+hiszen sebünk gyorsabban gyógyulhat általa.
+
+Sárgarépa: Táplálkozási szempontból a sárgarépa a gyökérfélék között előkelő szerepet 
+vívott ki. Magas karotintartalommal rendelkezik, amit szervezetünk A-vitaminná alakít át, 
+amely a nyálkahártyák egészségét és a jó látást garantálja. Egyes vizsgálatok szerint a 
+daganatos megbetegedések megelőzésében is fontos szerepet játszik. Fogyasztása 
+ajánlott szív- és keringési betegségekben szenvedőknek, a nép orvoslás pedig 
+vizelethajtóként használja.
+
+Cékla: Káliumtartalma nagyon fontos a test fiziológiai táplálásához, az izmok, valamint 
+az állóképesség növeléséhez. Gazdag vasban, foszforban, kalciumban, kénben, nátriumban, 
+valamint A-, C- és B-vitaminokban. A népi gyógyászat vérképző hatása miatt alkalmazza. 
+A túlzott alkoholfogyasztás rossz hatását ellensúlyozhatja a céklalé, a májra gyakorolt 
+tisztító hatása miatt. A cékla fogyasztása várandós anyukáknak is fontos magas 
+folsavtartalma miatt, mely a fejlődő magzatra van pozitív hatással.
+
+Retek: Napjainkban Németországban termesztenek belőle a legtöbbet. Itt évtizedeken 
+keresztül vékonyra szeletelve, enyhén sózva fogyasztották, mely tél szűkében segített az 
+emberek egészségét megőrizni. C-vitamin tartalma nagyon magas, mindemellett A és B-vitamint, 
+káliumot, foszfort és sok más nyomelemet tartalmaz. Antibakteriális és gombaölő hatása 
+is van, ezért megfázás és cseppfertőzés megelőzésére alkalmas. A májfunkciókat e zöldség 
+is támogatja, de legfőképp az epekiválasztást. Fogyókúránál is ajánlott magas rost, 
+de alacsony energiatartalma miatt.
