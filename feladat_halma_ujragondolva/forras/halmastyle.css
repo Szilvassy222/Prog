@@ -1,0 +1,31 @@
+body{
+    background-color: #AAA;
+    color: #136;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 120%;
+    text-transform: capitalize;
+}
+table{
+    width: 80%;
+    background-color: #DDD;
+    border-style: groove;
+    border-color: #136;
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 5px;
+}
+ul{
+    list-style-type: square;
+}
+a{
+    color: red; /*I see red XDD*/
+}
+h2{
+    background-color: white;
+}
+img{
+    ali
+}
