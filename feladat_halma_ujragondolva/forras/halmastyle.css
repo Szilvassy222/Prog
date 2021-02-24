@@ -26,7 +26,11 @@ a{
 h2{
     background-color: white;
 }
-.alsokep{
-    margin-top: auto;
-    margin-left: auto;
+p{
+    text-align: center;
+}
+.korul{
+    border: #136;
+    border-style: groove;
+    border-width: 5px;
 }
