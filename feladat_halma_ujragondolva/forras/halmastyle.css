@@ -34,3 +34,9 @@ p{
     border-style: groove;
     border-width: 5px;
 }
+.elsokep{
+    border: #136;
+    border-style: groove;
+    border-width: 2px;
+    text-align: center;
+}
