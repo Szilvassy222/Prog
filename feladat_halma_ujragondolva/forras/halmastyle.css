@@ -25,6 +25,7 @@ a{
 }
 h2{
     background-color: white;
+    border-top: groove ;
 }
 p{
     text-align: center;
