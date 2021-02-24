@@ -22,6 +22,7 @@ ul{
 }
 a{
     color: red; /*I see red XDD*/
+    text-decoration: none;
 }
 h2{
     background-color: white;
