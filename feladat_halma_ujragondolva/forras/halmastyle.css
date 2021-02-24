@@ -25,7 +25,13 @@ a{
 }
 h2{
     background-color: white;
-    border-top: groove ;
+    border-top: groove;
+    margin: 15px;
+    margin-top: 5px;
+    border-top: groove;
+    border-bottom: groove;
+    border-color: #136;
+    border-width: 2px;
 }
 p{
     text-align: center;
