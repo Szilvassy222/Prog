@@ -6,7 +6,7 @@
 	background-image: url(bg.png);
 }
 p{
-	
+	color: black;
 }
 hr {
 	
@@ -35,4 +35,7 @@ h2 {
 }
 a:link {
 	color: #008080;
+}
+ul{
+	list-style-type: square;
 }
