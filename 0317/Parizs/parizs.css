@@ -28,10 +28,14 @@ body {
 #keplouvre {    
     margin: 0 10px;
     width: 980px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 #kepnotredame {
     width:300px;
     margin: 0 10px;
+    float: left;
 }
 table {
     margin-left: 20px;
@@ -48,12 +52,15 @@ table, table th, table td {
 }  
 #fejlec {
     background-image: url(notredame.jpg);
+    height: 200px;
+    text-align: center;
+    text-size-adjust: 48px;
 }
 h1{
     text-align: center;
-    text-size-adjust: 48px;
     padding-top: 0px;
     margin-top: 30px;
+    text-size-adjust: 48px;
 }
 h2{
     text-size-adjust: 18px;
