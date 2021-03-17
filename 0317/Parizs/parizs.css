@@ -51,6 +51,8 @@ table, table th, table td {
 h1{
     text-align: center;
     text-size-adjust: 48px;
+    padding-top: 0px;
+    margin-top: 30px;
 }
 h2{
     text-size-adjust: 18px;
@@ -58,5 +60,5 @@ h2{
 }
 h3{
     text-size-adjust: 14px;
-    
+    font-style: italic;
 }
