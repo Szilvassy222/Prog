@@ -1,0 +1,31 @@
+body{
+    background-color: #BFBFBF;
+}
+h1{
+    text-align: center;
+}
+form{
+    background-image: url(level.jpg);
+    color: #CCFF33;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    text-align: center;
+}
+input{
+    background-color: #CCFF33;
+    color: #339900;
+}
+textarea{
+    background-color: #339900;
+    color: #336600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sendnudes{
+    border-style: groove;
+    color: #336600;
+    font-family: Arial Black;
+    border: #CCFF33;
+    border-style: groove;
+    background-color: #339900;
+}
